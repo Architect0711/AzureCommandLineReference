@@ -32,3 +32,6 @@ Get help on Azure PowerShell cmdlets with **get-command**. The cmdlet supports w
 
 ### Clear
 Use the cmdlet **clear** to clear the console.
+
+# [AzCopy](https://docs.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10)
+Working with files in Azure Storage from the local command-line
